@@ -1,0 +1,3 @@
+[submodule "themes/jarossndmode"]
+	path = themes/jarossndmode
+	url = https://github.com/jarossnd/jason-minimal-hugo-theme.git
