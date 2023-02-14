@@ -15,5 +15,3 @@ There are many things I want to do with this domain name but I am going to start
 Although I have many other websites, this website is going to be a landing page to show some contact information and some recent projects I have been working on.
 
 Have a great day!
-
-{{< figure src="/images/thankyou.png" title="" >}}
